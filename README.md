@@ -11,7 +11,7 @@ Favorite quotes
 -Sister Calderón (RDR2)
 
 “It is funny how mortals always picture us as putting things into their minds: in reality our best work is done by keeping things out.”
--C.C Lewis, The Screwtape Laetters
+-C.S Lewis, The Screwtape Laetters
 
 “Many that live deserve death. And some that die deserve life. Can you give it to them? Then do not be too eager to deal out death in judgement.”
 ― J.R.R. Tolkien, The Fellowship of the Ring
