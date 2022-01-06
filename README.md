@@ -1,6 +1,37 @@
 ### Hi there 👋 I'm Joe
 
-- 🔭 I’m currently working on ... My Captone Project Intellifridge!
+Looking for my first job as a web developer!
+
+Congradulations Draco 6/28/21 - 1/3/22 🎓🐲
+
+                                                                           
+            .----------------------------------------:                     
+           `ooooooooooooooooooooooooooooooooooooooooyh/                    
+           /oooooooooooooooooooooooooooooooooooooosyhhy.                   
+          -ooooooooooooooooooooooooooooooooooooooyhhhhhs                   
+         `oooooooo:-----------------------------shhhhhhh/                  
+         /ooooooo/                              -hhhhhhhy-                 
+        :ooooooo+`                               +hhhhhhhs`                
+       .oooooooo.                                `shhhhhhh+                
+       +oooooooo/////////////////////////+-       -yhhhhhhy-               
+      :oooooooooooooooooooooooooooooooooyhs`       +hhhhhhhs`              
+     .oooooooooooooooooooooooooooooooosyhhh+       `shhhhhhh+              
+     /oooooooooooooooooooooooooooooooyhhhhhy-       -yhhhhhhy-             
+     ```````````````````````````````/hhhhhhhs`       /hhhhhhhs`            
+                                    `shhhhhhh+       `shhhhhhh+            
+                                     .yhhhhhhy-       .yhhhhhhy-           
+                                      /hhhhhhhy`       /hhhhhhhy`          
+                                       shhhhhhh+        shhhhhhh+          
+                                       .yhhhhhhh:       -hhhhhhhh:         
+                                        /hhhhhhhy`   `-+shhhhhhhhy`        
+                                         ohhhhhhho`.+shhhhhhhhhhyo.        
+                                         .yhhhhhhhshhhhhhhhhhyo:`          
+                                          :hhhhhhhhhhhhhhhyo:.             
+                                           ohhhhhhhhhhhys/.                
+                                           .yhhhhhhhys/.                   
+                                            :hhhhys/.                      
+                                             oyy+-                         
+                                             `-                            
 
 🇦🇺 🇵🇭 🇬🇭 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇯🇵 🇺🇸
 
