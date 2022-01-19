@@ -11,6 +11,9 @@ Congradulations Draco 6/28/21 - 1/3/22 🎓🐲
 
 Working toward getting my first software developer job. 
 
+Languages:
+Java JavaScript MySQL React Vue
+
 Favorite quotes
 "There is nothing to be afraid of, Mr. Morgan. Take a gamble that love exists, and do a loving act."
 -Sister Calderón (RDR2)
