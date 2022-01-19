@@ -5,8 +5,7 @@ Looking for my first job as a web developer!
 Congradulations Draco 6/28/21 - 1/3/22 🎓🐲
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephcongdon&theme=radical_icons=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephcongdon&theme=radical&show_icons=true)
 <br>
 
 🇦🇺 🇵🇭 🇬🇭 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇯🇵 🇺🇸
