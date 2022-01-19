@@ -7,8 +7,6 @@ Congradulations Draco 6/28/21 - 1/3/22 🎓🐲
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephcongdon)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephcongdon&show_icons=true)
-
 🇦🇺 🇵🇭 🇬🇭 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇯🇵 🇺🇸
 
 Working toward getting my first software developer job. 
