@@ -6,12 +6,15 @@ Congradulations Draco 6/28/21 - 1/3/22 🎓🐲
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephcongdon&show_icons=true)
+
+<br>
+
 🇦🇺 🇵🇭 🇬🇭 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇯🇵 🇺🇸
 
 Working toward getting my first software developer job. 
 
 Languages:
-Java%0A JavaScript%0A%0A MySQL%0A%0A React%0A%0A Vue%0A%0A
+Java JavaScript MySQL React Vue
 
 Favorite quotes
 "There is nothing to be afraid of, Mr. Morgan. Take a gamble that love exists, and do a loving act."
