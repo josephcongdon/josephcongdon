@@ -6,7 +6,7 @@ Congradulations Draco 6/28/21 - 1/3/22 🎓🐲
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephcongdon&theme=radical&show_icons=true)
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephcongdon)](https://github.com/josephcongdon/github-readme-stats)
 
 🇦🇺 🇵🇭 🇬🇭 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇯🇵 🇺🇸
