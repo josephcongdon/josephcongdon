@@ -10,11 +10,10 @@ Congradulations Draco 6/28/21 - 1/3/22 🎓🐲
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephcongdon)](https://github.com/josephcongdon/github-readme-stats)
 
 🇦🇺 🇵🇭 🇬🇭 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇯🇵 🇺🇸
-
-Working toward getting my first software developer job. 
+Thinking about redirecting my career into solutions architecture
 
 Languages:
-Java JavaScript MySQL React Vue
+Java JavaScript jQuery ZPl Groovy Grails MySQL React Vue
 
 Favorite quotes
 "There is nothing to be afraid of, Mr. Morgan. Take a gamble that love exists, and do a loving act."
