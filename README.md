@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Joe
 
-Looking for my first job as a web developer!
+Former Software Developer for Zelifcam (2022-2024)
 
 Congradulations Draco 6/28/21 - 1/3/22 🎓🐲
 
