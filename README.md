@@ -9,7 +9,9 @@ Congradulations Draco 6/28/21 - 1/3/22 🎓🐲
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephcongdon)](https://github.com/josephcongdon/github-readme-stats)
 
-🇦🇺 🇵🇭 🇬🇭 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇯🇵 🇺🇸
+world traveler
+🇦🇺 🇵🇭 🇬🇭 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇯🇵 🇺🇸 🇭🇺 🇦🇹 🇨🇭 🇸🇮
+
 Thinking about redirecting my career into solutions architecture
 
 Languages:
